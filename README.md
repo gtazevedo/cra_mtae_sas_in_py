@@ -6,7 +6,7 @@ Here I'll build my own python examples using as base the SAS examples given in t
 
 If you need a more detailed introduction into some python concepts, functions or packages for these implementations you can refer to [Snake Bear](https://snakebear.science/index.html).
 
-Each chapter will be a different python notebook and these notebooks will have a short resumen of the theory in the book along with the examples. Sometimes this theory can be complemented with my knowledge or outside sources (when referenced). To have a look at the complete theory I recommend reading the book, you can find more details, papers, trainings, where to buy, the preview or info about the authors at  [Credit Risk Analytics](www.creditriskanalytics.net).
+Each chapter will be a different python notebook and these notebooks will have a short resumen of the theory in the book along with the examples. Sometimes this theory can be complemented with my knowledge or outside sources (when referenced. I will not reference the book each time as this is all based on it's content). To have a look at the complete theory I recommend reading the book, you can find more details, papers, trainings, where to buy, the preview or info about the authors at  [Credit Risk Analytics](www.creditriskanalytics.net).
 
 It's important to notice that this github project has no relationship with the authors nor their course in python (you can check it [here](https://www.deepcreditrisk.com/), this course is related to their book Deep Credit Risk: Machine Learning with Python). As of the moment I'm writing these notebooks I haven't taken this course nor watched their videos in youtube so my approach to converting these analysis to python may differ.
 
