@@ -10,6 +10,8 @@ Each chapter will be a different python notebook and these notebooks will have a
 
 It's important to notice that this github project has no relationship with the authors nor their course in python (you can check it [here](https://www.deepcreditrisk.com/), this course is related to their book Deep Credit Risk: Machine Learning with Python). As of the moment I'm writing these notebooks I haven't taken this course nor watched their videos in youtube so my approach to converting these analysis to python may differ.
 
+And although this github project is not related to the author, I highly recommend reading his books or having it in hand for some sanity checks.
+
 ## Datasets
 
 I'll go only to the brief descriptions that can be found in the books about the datasets but I won't make them available in my git project as they are available at [Credit Risk Analytics](www.creditriskanalytics.net).
