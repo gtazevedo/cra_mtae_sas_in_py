@@ -1,6 +1,6 @@
 # Credit Risk Analytics - Measurement Techniques Applications and Examples in SAS examples in python
 
-This project is still under development. 
+This project is still under development. I've started reading the book, stopped it to study other subjects, but now I'm back to updating it to the last chapter.
 
 Here I'll build my own python examples using as base the SAS examples given in the book. The codes will be usually separated into `.ipynb` files and might not have the best possible implementation of the functions but will give you a close enough (plots won't be visually the same) or equal result to the ones in the book.
 
@@ -14,7 +14,7 @@ And although this github project is not related to the author, I highly recommen
 
 ## Datasets
 
-I'll go only to the brief descriptions that can be found in the books about the datasets but I won't make them available in my git project as they are available at [Credit Risk Analytics](www.creditriskanalytics.net).
+I'll go only to the brief descriptions that can be found in the books about the datasets but I won't make them available in my git project as they aren't mine and are available at [Credit Risk Analytics](www.creditriskanalytics.net).
 
 More details please check Credit risk analytics : measurement techniques, applications, and examples in SAS.
 
